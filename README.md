@@ -27,7 +27,7 @@ conda activate posture
 ⚙️ Configuration
 You can set your own:
 
-Right/Left Neck Angle Ranges
+Right/Left Angle Ranges
 
 Alert Interval
 
