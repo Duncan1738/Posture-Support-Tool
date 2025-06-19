@@ -8,7 +8,7 @@ A real-time web application that monitors your sitting posture using your webcam
 
 -  Live webcam capture
 - Real-time neck angle analysis
-- 🧍 Back and shoulder posture tracking
+- Back and shoulder posture tracking
 - 🔁 Right knee alignment check
 - ⏰ Configurable alert intervals for bad posture
 - 🔔 Audible posture reminders
