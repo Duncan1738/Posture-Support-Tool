@@ -4,7 +4,7 @@ A real-time web application that monitors your sitting posture using your webcam
 
 ---
 
-## 🎯 Features
+##  Features
 
 - 📸 Live webcam capture
 - 🧠 Real-time neck angle analysis
