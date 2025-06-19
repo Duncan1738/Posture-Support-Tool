@@ -1,4 +1,4 @@
-# 🧍‍♂️ Sitting Posture Detection App
+# Sitting Posture Detection App
 
 A real-time web application that monitors your sitting posture using your webcam and alerts you if bad posture is detected. Built with **FastAPI**, **MediaPipe**, and **Vanilla JavaScript**.
 
